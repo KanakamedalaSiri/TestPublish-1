@@ -1,8 +1,8 @@
 {
-    "filename": "storeDSLocalAPI.zip",
+    "filename": "MKAFSampleApp.zip",
     "channels": "responsive_web",
     "upgradable": false,
-    "displayname": "storeDSLocalAPI",
-    "description": "'Binary for storeDSLocalAPI'",
+    "displayname": "MKAFSampleApp",
+    "description": "'Binary for MKAFSampleApp'",
     "version": "1.0.1"
 }
